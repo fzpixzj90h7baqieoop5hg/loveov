@@ -4,7 +4,7 @@
 
 ### Hi there 👋 I'm CHK141 also Kingly <img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chk141&theme=default' width='480px'>
 
-- 🛫 My Telegram: [t.me/k3389](https://t.me/k3389)
+- 🛫 My Telegram: [aHR0cHM6Ly90Lm1lL2szMzg5(b64)](https://sourl.cn/f4Zr6W)
 
 <img src='https://img.shields.io/badge/-CHK141/MySqlLogsMonitor-409EFF?style=flat-square&logo=c#&logoColor=white&labelColor=000000' width='140px'>
 
